@@ -12,7 +12,6 @@ int main() {
 
 	PrintIntro();
 	PlayGame();
-	//
 	return 0; // exit the application
 }
 
