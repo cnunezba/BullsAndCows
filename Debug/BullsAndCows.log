@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\workspace\c++\section_02\bullsandcows\main.cpp(1): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\workspace\c++\section_02\bullsandcows\main.cpp(2): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  BullsAndCows.vcxproj -> C:\Workspace\C++\Section_02\Debug\BullsAndCows.exe
